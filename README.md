@@ -7,4 +7,4 @@
 <h4 align="center">Front-End Hangman Concept Game made in Javascript<a href="https://pabloasanch.github.io/8-Lives/" target="_blank"> 8 Lives </a>.</h4>
 
 
-![screenshot](https://github.com/PabloASanch/8-Lives/blob/main/8livesthumnail.png)
+![screenshot](https://github.com/PabloASanch/Basic-Weather-API/blob/main/WeatherAPIthumbnail.png)
