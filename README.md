@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://pabloasanch.github.io/8-Lives/"><img height="50" src="https://github.com/PabloASanch/8-Lives/blob/main/8livesicon.png"></img></a>
+  <a href="https://pabloasanch.github.io/8-Lives/"><img height="50" src="https://github.com/PabloASanch/Basic-Weather-API/blob/main/WeatherIcon.png"></img></a>
   <br>
 </h1>
 
