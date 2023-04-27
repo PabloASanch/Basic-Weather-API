@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous"
+    />
+    <title>Weather God</title>
+    <script src="./app.js" defer></script>
+  </head>
+  <body class="container mt-5">
+    <h1 class="text-center">Weather God (United States Editon)</h1>
+    <form class="form-group mt-5 d-flex justify-content-center align-items-center flex-column" id="form">
+      <div class="w-75">
+        <label for="city">City:</label>
+        <input type="text" id="city" name="city" class="form-control">
+      </div>  
+      <br>
+      <div class="w-75">
+        <label for="country">Country:</label>
+        <input type="text" id="country" name="country" class="form-control">
+      </div>
+      <br>
+      <input type="submit" value="Submit" class="btn btn-primary mt-3">
+    </form>
+    <div id="weather-container"></div>
+  </body>
+</html>
